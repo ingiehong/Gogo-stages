@@ -7,3 +7,7 @@
 ### Authors ###
 
 * Tyler Spoleti (tspolet1@jh.edu) and Ingie Hong (ingiehong@jhmi.edu), Johns Hopkins University, 2018
+
+![Treadmill Imaging Rig](Treadmill%20Imaging%20Rig/Drawing%20Files/Treadmill%20Rig_multiview.jpg)
+
+![Treadmill Imaging Rig](Anesthetized%20Imaging%20Rig/Drawing%20Files/Anesthetized%20Imaging%20Rig.jpg)
