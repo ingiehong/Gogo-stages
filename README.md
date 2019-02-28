@@ -6,6 +6,8 @@
 
 * Platform for longitudinal in vivo two photon-imaging with submicron accuracy.  Our head fixation stage incorporates two goniometers through which the roll and pitch of the specimen can be adjusted to match original imaging conditions. The design is highly modular, allowing anesthetized imaging on a heated pad or awake imaging with a circular treadmill. Here we make all designs publicly available.
 
+* Sister software suite StackGPS available for 3D registration and rotational correction: [StackGPS on Github](https://github.com/ingiehong/StackGPS)
+
 ### Authors ###
 
 * Tyler Spoleti (tspolet1@jh.edu) and Ingie Hong (ingiehong@jhmi.edu), Johns Hopkins University, 2018
