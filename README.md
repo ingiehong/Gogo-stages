@@ -1,3 +1,5 @@
+
+![Gogo-stage introduction video loading...](Media/From%20SolidWorks/Animations/Gogo-stages.gif)
 # Gogo-stages : Platforms for longitudinal in vivo two photon-imaging with submicron accuracy.
 
 # Summary #
